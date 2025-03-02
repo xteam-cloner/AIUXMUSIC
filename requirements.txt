@@ -12,7 +12,7 @@ lyricsgenius
 motor
 pillow==9.5.0
 psutil
-py-tgcalls==0.9.7
+py-tgcalls==1.2.9
 pykeyboard
 pykeyboard
 pyrogram==2.0.106
